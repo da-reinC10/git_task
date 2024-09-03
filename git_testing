@@ -1,0 +1,12 @@
+using system;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    Static void Main(strings[]args)
+    {
+      ConsoleWriteLine("HelloWorld!");
+    }
+  }
+}
