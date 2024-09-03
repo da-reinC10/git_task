@@ -1,0 +1,13 @@
+#Broken Fork
+using system;
+
+namespace Bruh
+{
+  class Program
+  {
+    Static void Main(strings[]args)
+    {
+      ConsoleWriteLine("Bruh");
+    }
+  }
+}
